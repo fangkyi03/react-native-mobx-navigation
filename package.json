@@ -1,0 +1,24 @@
+{
+  "name": "react-native-mobx-navigation",
+  "version": "1.0.1",
+  "description": "一个高性能的react-native 路由组件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fangkyi03/react-native-mobx-navigation.git"
+  },
+  "keywords": [
+    "react-native",
+    "react-navigation",
+    "react-native-router"
+  ],
+  "author": "fangkyi03",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fangkyi03/react-native-mobx-navigation/issues"
+  },
+  "homepage": "https://github.com/fangkyi03/react-native-mobx-navigation#readme"
+}
